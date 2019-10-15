@@ -5,4 +5,4 @@ Implementation of a Deep Learning based method to solve high-dimensional Kolmogo
 For more information, see:
 [Solving stochastic differential equations and Kolmogorov equations by means of deep learning and Multilevel Monte Carlo simulation](https://homepage.univie.ac.at/julius.berner/research.html#three)
 
-For further mathematical error analysis, see: [https://arxiv.org/abs/1809.03062](https://arxiv.org/abs/1809.03062)
+For further mathematical error analysis, see: [Analysis of the generalization error: Empirical risk minimization over deep artificial neural networks overcomes the curse of dimensionality in the numerical approximation of Black-Scholes partial differential equations](https://arxiv.org/abs/1809.03062)
